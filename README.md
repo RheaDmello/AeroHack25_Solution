@@ -14,9 +14,12 @@ A smart 3x3 Rubik's Cube solver built during **AeroHack 2025** at Collins Aerosp
 - `S`: Apply scramble  
 - `SPACE`: Apply next solution move
 
+
 ## 🚀 Run It
 ```bash
 python demo.py
-
+```
 ## Visual Demo
+```bash
 python visual.py
+
